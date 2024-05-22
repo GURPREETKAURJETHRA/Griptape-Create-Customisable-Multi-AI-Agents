@@ -9,19 +9,19 @@ Modular Python framework for AI agents and workflows with chain-of-thought reaso
 # 👨‍💻 Why Use Griptape?
 - Modular and flexible framework
 - Enhances AI agent collaboration
-- Efficient task management and parallel execution
+- Efficient Task management and Parallel Execution
 
 ## Description:✨
 Unlock the power of Multi-Agent AI systems with the Griptape framework! In this project, we delve into creating intelligent AI agents and workflows, leveraging Chain of Thought reasoning tools and memory by Integrating multiple agents, assigning specific tasks, and facilitating interaction with external resources. 🚀
 
 ## Key Features:💻
-👉 Setting up Griptape and installing necessary packages
-👉 Creating Multi-agent setups
-👉 Developing custom tools and assigning Tasks
-👉 Building and integrating Research and Writer Agents
+👉 Setting up Griptape and installing necessary packages                        
+👉 Creating Multi-agent setups                        
+👉 Developing custom tools and assigning Tasks                                
+👉 Building and integrating Research and Writer Agents                           
 
 
- ## Implementation Guide:
+ ## Implementation Guide:🎯💯
 [Link ▶️](https://github.com/GURPREETKAURJETHRA/Griptape-Create-Customisable-Multi-AI-Agents/blob/main/Griptape_AI_Agents_App.py)
 
  ---
