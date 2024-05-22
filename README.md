@@ -4,7 +4,7 @@ Griptape: Create Customisable Multi AI Agents from Scratch
 ## Whatz GripTape?🤔
 Modular Python framework for AI agents and workflows with chain-of-thought reasoning, tools, and memory.         
 - [Link Github👉▶️](https://github.com/griptape-ai/griptape)
-- [Link Site👉▶️](www.griptape.ai)
+- [Link Site👉▶️](https://www.griptape.ai)
 
 # 👨‍💻 Why Use Griptape?
 - Modular and flexible framework
